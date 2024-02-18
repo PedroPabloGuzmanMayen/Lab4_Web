@@ -1,0 +1,53 @@
+
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue
+    
+}
+
+.groguArea{
+    display: flex;
+    justify-content: center;
+    
+    height: 100vh;
+    background-color: #f5f5f5;
+
+}
+
+
+
+
+
+
+.groguHead {
+    width: 300px;
+    height: 200px;
+    background-color: #7bba5d;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+    
+    
+   
+}
+
+.Eyes {
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
